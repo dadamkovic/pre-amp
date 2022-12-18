@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name my_misc)(type KiCad)(uri F:/projects/BLDC_motor/ver1/design_files/BLDC_driver/BLDC_driver/my_misc.pretty)(options "")(descr ""))
+)
